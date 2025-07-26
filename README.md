@@ -55,3 +55,5 @@ A **frontend-only prototype** of a Bus Pass Automation System built using **Reac
 - ✅ Instant feedback to students and admin
 - ✅ Easily extendable to connect with a real backend
 - ✅ Ideal for college automation, demos, and frontend showcases
+
+##Author: Sampath Kumar Chintha
